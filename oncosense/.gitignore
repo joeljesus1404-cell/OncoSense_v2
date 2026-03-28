@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.pdf
+!README.md
+.streamlit/
+venv/
+.venv/
+test_report.pdf
+diagnosis_report.pdf
