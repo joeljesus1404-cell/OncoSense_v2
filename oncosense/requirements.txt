@@ -9,6 +9,7 @@ matplotlib>=3.7
 seaborn>=0.12
 plotly>=5.18
 fpdf2>=2.7
-torch>=2.0
-torchvision>=0.15
 Pillow>=10.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
